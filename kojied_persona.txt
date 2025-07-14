@@ -1,0 +1,92 @@
+### User Persona
+
+**Name:** Alex
+
+**Age Estimate:** Late 20s to Early 30s
+
+**Occupation Guess:** iOS Developer
+
+**Location:** New York City
+
+**Interests:**
+- Technology (especially Vision Pro and iOS development)
+- Music and dancing
+- Plants and gardening
+- Stock trading and options
+- Video games (Project Zomboid, Manor Lords)
+- Movies and TV shows (Edgerunners, Gen-Z content)
+
+**Political Leanings:** Conservative
+
+**H1B Status:** H1B holder
+
+**Technology Use:**
+- Uses Vision Pro for development and work
+- Prefers wired earphones
+- Interested in spatial computing and 3D maps
+- Uses ChatGPT for various tasks
+
+**Financial Behavior:**
+- Actively trades options and stocks
+- Interested in ESG ratings and sustainable investing
+- Considers financial strategies and risk management
+
+**Lifestyle:**
+- Frequent visitor to a local bar for music and dancing
+- Enjoys exploring different restaurants and cafes in NYC
+- Interested in maintaining and caring for plants
+
+**Challenges:**
+- Struggles with balancing work and personal life
+- Faces challenges in porting workflow to new technologies
+- Deals with the complexities of stock trading and market volatility
+
+**Citations:**
+
+1. **Name:** Alex
+   - **Evidence:** No direct evidence for the name, but the user's interest in technology and development suggests a modern, tech-savvy name.
+
+2. **Age Estimate:** Late 20s to Early 30s
+   - **Evidence:** Posts about H1B status and career development (Posts [2], [3]), interest in Gen-Z content (Post [6]), and active participation in tech and development communities (Posts [8], [13]).
+
+3. **Occupation Guess:** iOS Developer
+   - **Evidence:** "Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (Post [8])
+
+4. **Location:** New York City
+   - **Evidence:** "There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance." (Post [1])
+
+5. **Interests:**
+   - **Technology:** "Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (Post [8])
+   - **Music and dancing:** "There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance." (Post [1])
+   - **Plants and gardening:** "English ivy is withering, any suggestions on what I should do?" (Post [15])
+   - **Stock trading and options:** "I’ve been trading options for the past month or so, and have made good money." (Post [25])
+   - **Video games:** "Surprised I don’t see project zomboid. Graphics are retro but the game is so well made." (Comment [52])
+   - **Movies and TV shows:** "There's so many coming of age movies for boomers and millennials, what about for gen-Z?" (Post [6])
+
+6. **Political Leanings:** Conservative
+   - **Evidence:** "Are you guys for/against banning Tiktok in the US?" (Post [5])
+
+7. **H1B Status:** H1B holder
+   - **Evidence:** "H1B holders, what are your thoughts on the narrative that you are being exploited?" (Post [2])
+
+8. **Technology Use:**
+   - **Vision Pro:** "Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (Post [8])
+   - **Wired earphones:** "Do you guys prefer earphones with cables? Why or why not?" (Post [19])
+   - **Spatial computing:** "Spacial tours with 3D map and 360˚ video" (Post [7])
+   - **ChatGPT:** "Killer feature: accessing chatGPT (iPad app) and using audio as primary input" (Post [11])
+
+9. **Financial Behavior:**
+   - **Stock trading:** "I’ve been trading options for the past month or so, and have made good money." (Post [25])
+   - **ESG ratings:** "Tracking our individual impacts on the world through ESG ratings" (Post [20])
+   - **Risk management:** "Seeking advice: I’ve made some gains buying put options this month, but I’ve not been doing call option spread. Option spread limits risk, but also limits profitability." (Post [26])
+
+10. **Lifestyle:**
+    - **Bar visits:** "There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance." (Post [1])
+    - **Restaurants and cafes:** "Breakfast - Buvette, Coffee - Lyria, Lunch - Tsukemen okiboru, Coffee - La cabra, Dinner - Isodi, Drinks - Double chicken please" (Comment [41])
+    - **Plant care:** "English ivy is withering, any suggestions on what I should do?" (Post [15])
+
+11. **Challenges:**
+    - **Work-life balance:** "I’ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it’s not" (Post [13])
+    - **Market volatility:** "Seeking advice: I’ve made some gains buying put options this month, but I’ve not been doing call option spread. Option spread limits risk, but also limits profitability." (Post [26])
+
+This persona provides a comprehensive overview of the user based on their Reddit activity, highlighting their interests, challenges, and lifestyle preferences.
